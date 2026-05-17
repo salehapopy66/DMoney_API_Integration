@@ -22,6 +22,10 @@ Dmoney is a Mobile Financial Service (MFS) platform (similar to bKash/Nagad) sup
 [Click Here to see the API Documentation](https://documenter.getpostman.com/view/43146723/2sBXqRiGHN)
 
 
+## Testcases of DMoney API Collection
+[Click Here to see the Testcases](https://docs.google.com/spreadsheets/d/1XSfgDwIuY5HsO05kCmscdoHmpVs4WefuGjZkNMKRaak/edit?usp=sharing)
+
+
 
 
 ## Report Output
